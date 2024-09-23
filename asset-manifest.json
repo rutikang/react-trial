@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/rutikang/react-trial.git/static/js/main.81d0a660.js",
-    "index.html": "/rutikang/react-trial.git/index.html",
-    "main.81d0a660.js.map": "/rutikang/react-trial.git/static/js/main.81d0a660.js.map"
+    "main.js": "/react-trial/static/js/main.81d0a660.js",
+    "index.html": "/react-trial/index.html",
+    "main.81d0a660.js.map": "/react-trial/static/js/main.81d0a660.js.map"
   },
   "entrypoints": [
     "static/js/main.81d0a660.js"
