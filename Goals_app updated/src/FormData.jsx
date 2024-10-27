@@ -19,12 +19,12 @@ export function FormData(props){
   
     return(
   
-     <Box sx={{height:'100vh', display:'flex' , flex:1}}>
+     <Box sx={{height:'80vh', display:'flex' , flex:1}}>
         <Stack direction={'column'}>
         <Box sx=
         {{bgcolor:'#1b2129',
          width:'525px',
-         height:'65vh',
+         height:'60vh',
          p:4, 
          color:'white',
          borderRadius:2,
